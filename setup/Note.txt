@@ -1,0 +1,7 @@
+
+##Run Code 
+รันไฟล์ .jar: java -jar Main.jar
+รันไฟล์ Kotlin โดยตรง: kotlin Main.kt
+
+ไฟล์อยู่ใน folders: เช่น
+setup/Main.jar

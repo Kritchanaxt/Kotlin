@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Kotlin",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "MainKt",
+            "projectName": "your-project-name"
+        }
+    ]
+}
